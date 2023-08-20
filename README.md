@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ᴍᴜᴋᴇsʜ X sᴘᴀᴍ</b>
+  <b>Aayush X Fucker</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/itz-mst-boy/Spambotfather?style=flat-square&color=orange)](https://github.com/itz-mst-boy/Spambotfather/fork)
@@ -20,9 +20,9 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/mukhushi_official)
-* [Support Group](https://t.me/cbseclass10mcqs)
+* [Channel](https://t.me/AayuXVenomSpmers)
+* [Support Group](https://t.me/+gHLzblkvEJcyOTk1)
  
 # Credits
 * [RiZoeL ](https://t.me/MrRizoel)
-* [Mukesh](https://telegram.dog/itz_mst_boy)
+* [Aasyush](https://t.me/Awesome_Aayu)
