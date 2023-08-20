@@ -6,12 +6,12 @@
         "telegram",
         "telethon",
         "telegram-bot",
-        "MukeshxSpam",
+        "AayushXSpam",
         "SpamBots"
     ],
-    "repository": "https://t.me/itz_mst_boy",
-    "website": "https://t.me/itz_mst_boy",
-    "success_url": "https://t.me/itz_mst_boy",
+    "repository": "https://t.me/Awesome_Aayu",
+    "website": "https://t.me/Awesome_Aayu",
+    "success_url": "https://t.me/Awesome_Aayu",
     "env": {
              "API_ID": {
         "description": "ғɪʟʟ ᴀᴘɪ ɪᴅ ᴛᴀᴋᴇ  ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ My.telegram.org",
